@@ -1,0 +1,5 @@
+2022-11-16 16:21:28.736  INFO 4144 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2022-11-16 16:21:28.737  INFO 4144 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2022-11-16 16:21:28.738  INFO 4144 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2022-11-16 16:21:28.765  WARN 4144 --- [main] kr.kwangan2.test.service.LoggingRunner   : WARN 로그 메시지
+2022-11-16 16:21:28.766 ERROR 4144 --- [main] kr.kwangan2.test.service.LoggingRunner   : ERROR 로그 메시지
